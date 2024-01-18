@@ -1,0 +1,23 @@
+C:\Users\px77kdr\Desktop\Doki\Doki\bin\Debug\Doki.exe.config
+C:\Users\px77kdr\Desktop\Doki\Doki\bin\Debug\Doki.exe
+C:\Users\px77kdr\Desktop\Doki\Doki\bin\Debug\Doki.pdb
+C:\Users\px77kdr\Desktop\Doki\Doki\obj\Debug\Doki.csproj.AssemblyReference.cache
+C:\Users\px77kdr\Desktop\Doki\Doki\obj\Debug\Doki.csproj.SuggestedBindingRedirects.cache
+C:\Users\px77kdr\Desktop\Doki\Doki\obj\Debug\Doki.csproj.CoreCompileInputs.cache
+C:\Users\px77kdr\Desktop\Doki\Doki\obj\Debug\Doki.exe
+C:\Users\px77kdr\Desktop\Doki\Doki\obj\Debug\Doki.pdb
+E:\Doki\Doki\bin\Debug\Doki.exe.config
+E:\Doki\Doki\bin\Debug\Doki.exe
+E:\Doki\Doki\bin\Debug\Doki.pdb
+E:\Doki\Doki\obj\Debug\Doki.csproj.AssemblyReference.cache
+E:\Doki\Doki\obj\Debug\Doki.csproj.CoreCompileInputs.cache
+E:\Doki\Doki\obj\Debug\Doki.exe
+E:\Doki\Doki\obj\Debug\Doki.pdb
+D:\Projets perso\Doki\Doki\bin\Debug\Doki.exe.config
+D:\Projets perso\Doki\Doki\bin\Debug\Doki.exe
+D:\Projets perso\Doki\Doki\bin\Debug\Doki.pdb
+D:\Projets perso\Doki\Doki\obj\Debug\Doki.csproj.AssemblyReference.cache
+D:\Projets perso\Doki\Doki\obj\Debug\Doki.csproj.SuggestedBindingRedirects.cache
+D:\Projets perso\Doki\Doki\obj\Debug\Doki.csproj.CoreCompileInputs.cache
+D:\Projets perso\Doki\Doki\obj\Debug\Doki.exe
+D:\Projets perso\Doki\Doki\obj\Debug\Doki.pdb
